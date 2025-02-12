@@ -48,6 +48,15 @@ input[type="radio"].visually-hidden {
   margin-bottom: 75px;
 }
 
+.inner-page .main-header {
+  margin-bottom: 50px;
+  background-color: #000000;
+}
+
+.main-header {
+  margin-bottom: 75px;
+}
+
 .button {
   display: inline-block;
   margin-right: 16px;
@@ -344,6 +353,9 @@ input[type="radio"].visually-hidden {
 }
 
 .page-title {
+  margin: 0;
+  margin-bottom: 15px;
+  padding: 0;
   margin: 0;
   margin-bottom: 15px;
   padding: 0;
@@ -688,6 +700,10 @@ input[type="radio"].visually-hidden {
 
 .product-info p {
   margin: 0;
+}
+
+.product-info {
+  width: 390px;
 }
 
 .product-info h3 {
